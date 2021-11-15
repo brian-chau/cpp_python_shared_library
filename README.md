@@ -1,4 +1,4 @@
-# cpp_shared_object_2
+#  cpp_python_shared_library
 
 This is the first application that I decided to write by combining:
 - Windows Subsystem for Linux, using Ubuntu as the distribution
