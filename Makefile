@@ -9,7 +9,7 @@ CC := g++
 RM := rm -rf
 
 # define any compile-time flags
-CFLAGS := -Wall -Werror -fPIC -g -std=c++17
+CFLAGS := -Wall -Werror -fPIC -g -std=c++17 -O3
 
 # define any directories containing header files other than /usr/include
 #
